@@ -1,0 +1,6 @@
+flask
+tensorflow
+line-bot-sdk
+numpy
+opencv-python
+pytesseract

@@ -1,0 +1,3 @@
+CHANNEL_ACCESS_TOKEN: str = ""
+CHANNEL_SECRET: str = ""
+PATH_TO_TESSERACT: str = ""
