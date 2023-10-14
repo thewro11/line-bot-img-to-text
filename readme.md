@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 3. Follow the guide and install [tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html/).
 
-4. Duplicate the `config.py.example` and rename it to `config.py.example`.
+4. Duplicate the `config.py.example` and rename it to `config.py`.
 ```ps
 # Windows
 copy config.py.example config.py
